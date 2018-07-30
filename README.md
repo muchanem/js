@@ -1,2 +1,2 @@
 # js
-My javascript cote for now
+My javascript code for now
